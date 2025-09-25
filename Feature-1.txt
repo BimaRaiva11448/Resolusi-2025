@@ -1,4 +1,4 @@
 Feature 1:
 - make a Login and Register design
 - Adding validation for each input in the form
-- Adding with make functionalitation for each form
+- test
