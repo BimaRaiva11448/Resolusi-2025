@@ -1,0 +1,3 @@
+Feature 2:
+- Make a lay put and dashboard page design
+- Display dashboard data from the server to dashboard board.
